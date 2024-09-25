@@ -1,6 +1,6 @@
 pandas
 chromadb
-streamlit
+streamlit==1.38.0
 langchain-community
 langchain-groq
 langchain-core
