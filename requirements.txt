@@ -1,0 +1,9 @@
+pandas
+chromadb
+uuid
+sqlite3
+streamlit
+langchain-community
+langchain-groq
+langchain-core
+python-dotenv
